@@ -1,0 +1,10 @@
+{
+    "route": "Route",
+    "image_type": "jpeg, jpg, png",
+    "email": "email",
+    "role": "Role",
+    "otp": "OTP",
+    "login": "Login",
+    "password": "Password",
+    "user": "User"
+}

@@ -1,0 +1,17 @@
+{
+    "not_found": "{{attribute}} not found.",
+    "invalid_file": "Please upload valid file ({{attribute}})",
+    "already_taken": "{{attribute}} is already taken by other.",
+    "something_went_wrong": "Something went to wrong, please try again later.",
+    "otp_sent": "OTP sent on your registered {{attribute}}.",
+    "account_blocked": "Your account has been blocked, please contact to admin.",
+    "invalid": "{{attribute}} is invalid.",
+    "expired": "{{attribute}} is expired.",
+    "verified_successfully": "{{attribute}} is verified successfully.",
+    "success": "{{attribute}} successfully!",
+    "wrong": "{{attribute}} is wrong.",
+    "reset_successfully": "{{attribute}} is reset successfully.",
+    "created_successfully": "{{attribute}} is created successfully.",
+    "updated_successfully": "{{attribute}} is updated successfully.",
+    "deleted_successfully": "{{attribute}} is deleted successfully."
+}
