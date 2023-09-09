@@ -182,7 +182,7 @@ const login = catchAsync(async (req, res) => {
         )
         tokens = await tokenService.generateAuthTokens(user, req)
     }
-
+    console.log(user,'===')
     res.status(200).json({
         success: true,
         message: resMessage,
